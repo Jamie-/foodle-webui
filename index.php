@@ -13,11 +13,11 @@
 
 
         <!-- FOOTER -->
-        <?php
-        echo "&copy; Foodle 2016 - Created by The Foodle Corp.<br>";
-        echo "Contributors: Jamie, Will, Matt and with thanks to our avid fan Mike<br>";
-        echo "Shared under some all inclusive open license....";
-        ?>
+        <footer>
+            &copy; Foodle 2016 - Created by The Foodle Corp.<br>
+            Contributors: Jamie, Will, Matt and with thanks to our avid fan Mike<br>
+            Shared under some all inclusive open license....
+        </footer>
 
     </body>
 </html>
