@@ -6,6 +6,14 @@
     </head>
 
     <body>
-        
+        <div>
+            <!-- PUT HEADINGS IN HERE -->
+            
+
+        </div>
+
+
+        <!-- FOOTER -->
+
     </body>
 </html>
