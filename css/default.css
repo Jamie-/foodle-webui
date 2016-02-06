@@ -23,7 +23,7 @@ h1 {
 }
 
 h3 {
-
+    font-style: italic;
 }
 
 /* Footer */
@@ -33,4 +33,5 @@ footer {
     left: 50%;
     margin-bottom: 20px;
     transform: translate(-50%);
+    color: #aaa;
 }
