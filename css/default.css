@@ -1,9 +1,8 @@
-/* Site wide font */
-@import url(https://fonts.googleapis.com/css?family=Cherry+Cream+Soda);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 body {
     font-family: sans-serif;
-    background: url('../images/CremeBrulee.JPG') no-repeat fixed 100% 100%;
+    background: url('../images/bg.jpg') no-repeat fixed 100% 100%;
 }
 
 body > div {
@@ -14,17 +13,33 @@ body > div {
 }
 
 /* Headings */
+.wrapper {
+    padding: 40px;
+    background: #fff;
+    display: block;
+}
+
 h1, h3 {
-    font-family: 'Cherry Cream Soda', cursive;
+    font-family: 'Lato', cursive;
     text-align: center;
+    margin-top: 0;
 }
 
 h1 {
-
+    font-size: 60px;
 }
 
 h3 {
     font-style: italic;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 /* Footer */
@@ -32,7 +47,14 @@ footer {
     position: absolute;
     bottom: 0;
     left: 50%;
-    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     transform: translate(-50%);
-    color: #aaa;
+    color: #444;
+    background: #fff;
+    width: 100%;
+}
+
+footer > div {
+    text-align: center;
 }

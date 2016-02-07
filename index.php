@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
     <head>
-        <title>Foodle.com</title>
+        <title>Foodlr - Your campus waiter</title>
         <link rel="stylesheet" href="css/default.css" />
+        <link rel="icon" type="image/x-icon" href="./favicon.ico" />
     </head>
 
     <body>
-        <div>
-            <h1>Welcome to Foodle</h1>
+        <div class="wrapper">
+            <h1>Welcome to Foodlr</h1>
             <h3>Your Campus Waiter</h3>
+            <img src="images/logo.png" height="200px" />
         </div>
 
 
         <!-- FOOTER -->
         <footer>
-            &copy; Foodle 2016 - Created by The Foodle Corp.<br>
-            Contributors: Jamie, Will, Matt and with thanks to our avid fan Mike<br>
-            Shared under some all inclusive open license....
+            <div>&copy; The Foodlr Team 2016</div>
         </footer>
 
     </body>
